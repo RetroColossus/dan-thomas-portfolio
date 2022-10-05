@@ -1,6 +1,6 @@
 {
-  "homepage": "",
-  "name": "portfolio",
+  "homepage": "https://retrocolossus.github.io/dan-thomas-portfolio/",
+  "name": "dan-thomas-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
