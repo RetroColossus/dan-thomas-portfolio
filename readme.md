@@ -1,4 +1,4 @@
-# Hobby Central
+# My React Portfolio
 
 ## Deployed app: https://retrocolossus.github.io/dan-thomas-portfolio/
 
