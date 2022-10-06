@@ -49,6 +49,7 @@ function Contact() {
     };
 
     return (
+        <form id="myForm"method="post" action="https://forms.un-static.com/forms/78cb55066484ff7649e358a8da49f9c4cffa0309">
         <section className="bg-dark">
             <div className="container">
                 <div className="row">
@@ -95,18 +96,19 @@ function Contact() {
                                 </div>
                             )}
                             <div className="text-center">
-                            <button type="submit" className="btn btn-primary btn-xl js-scroll-trigger">Submit</button>
+                            <button name="submit" type="submit" className="btn btn-primary btn-xl js-scroll-trigger">Submit</button>
                             </div>
                         </form>
                     
                         <h4>
-                            Dan Thomas <br />
+                             <br />
                             Or simply send me an email at:  <a href="mailto:danthomas215@gmail.com"> danthomas215@gmail.com</a>
                         </h4>
                     </div>
                 </div>
             </div>
         </section>
+        </form>
     );
 }
 
