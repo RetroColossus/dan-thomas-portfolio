@@ -1,0 +1,23 @@
+{
+  "main.css": "/dan-thomas-portfolio/static/css/main.dcb0a9e1.chunk.css",
+  "main.js": "/dan-thomas-portfolio/static/js/main.81bdab2e.chunk.js",
+  "main.js.map": "/dan-thomas-portfolio/static/js/main.81bdab2e.chunk.js.map",
+  "runtime~main.js": "/dan-thomas-portfolio/static/js/runtime~main.7395e55e.js",
+  "runtime~main.js.map": "/dan-thomas-portfolio/static/js/runtime~main.7395e55e.js.map",
+  "static/js/2.6b584df9.chunk.js": "/dan-thomas-portfolio/static/js/2.6b584df9.chunk.js",
+  "static/js/2.6b584df9.chunk.js.map": "/dan-thomas-portfolio/static/js/2.6b584df9.chunk.js.map",
+  "index.html": "/dan-thomas-portfolio/index.html",
+  "precache-manifest.051e35d953b182297f3132bcb1922344.js": "/dan-thomas-portfolio/precache-manifest.051e35d953b182297f3132bcb1922344.js",
+  "service-worker.js": "/dan-thomas-portfolio/service-worker.js",
+  "static/css/main.dcb0a9e1.chunk.css.map": "/dan-thomas-portfolio/static/css/main.dcb0a9e1.chunk.css.map",
+  "static/media/DanThomas_Resume.pdf": "/dan-thomas-portfolio/static/media/DanThomas_Resume.7f022f52.pdf",
+  "static/media/index.css": "/dan-thomas-portfolio/static/media/background-main.8dea1e8f.png",
+  "static/media/hobby-central.jpg": "/dan-thomas-portfolio/static/media/hobby-central.33c2f9bc.jpg",
+  "static/media/movie-central.jpg": "/dan-thomas-portfolio/static/media/movie-central.fee30b9d.jpg",
+  "static/media/note-taker.jpg": "/dan-thomas-portfolio/static/media/note-taker.2034cec3.jpg",
+  "static/media/password-generator.jpg": "/dan-thomas-portfolio/static/media/password-generator.31bdff81.jpg",
+  "static/media/taskmaster-pro.jpg": "/dan-thomas-portfolio/static/media/taskmaster-pro.7ce62a6b.jpg",
+  "static/media/tech-blog.jpg": "/dan-thomas-portfolio/static/media/tech-blog.e6c5ec79.jpg",
+  "static/media/weather-dashboard.jpg": "/dan-thomas-portfolio/static/media/weather-dashboard.3fd2b997.jpg",
+  "static/media/work-day-scheduler.jpg": "/dan-thomas-portfolio/static/media/work-day-scheduler.8d01d6e6.jpg"
+}
