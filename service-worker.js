@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dan-thomas-portfolio/precache-manifest.051e35d953b182297f3132bcb1922344.js"
+  "/dan-thomas-portfolio/precache-manifest.ac5690054102cada84c2b6ceaa72a274.js"
 );
 
 workbox.clientsClaim();
